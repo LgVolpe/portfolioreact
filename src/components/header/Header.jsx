@@ -51,6 +51,7 @@ export const Header = () => {
 
           <i class="uil uil-times nav__close" onClick={() => showMenu(!Toggle)}></i>
         </div>
+        
         <div className="nav__toggle" onClick={() => showMenu(!Toggle)}>
           <i class="uil uil-apps"></i>
         </div>
