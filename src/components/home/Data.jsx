@@ -56,7 +56,7 @@ export const Data = () => {
             </h1>
 
             <h3 className="home__subtitle">Web Developer</h3>
-            <p className="home__description">I'm creative designer based in New York, and I'm very passionate and dedicated to my work.</p>
+            <p className="home__description">I'm web developer based in São Paulo, Lorem ipsum dolor sit amet consectetur adipisicing elit. Nesciunt praesentium fuga consequatur, temporibus eum.</p>
 
             <a href="#contact" className="button button--flex">Say Hello
                 <svg

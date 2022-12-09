@@ -8,7 +8,8 @@ export const Header = () => {
   return (
     <header className="header">
       <nav className="nav container">
-        <a href="index.html" className="nav__logo"> Volpe</a>
+        <a href="index.html" className="nav__logo"> Volpe
+        </a>
 
         <div className={Toggle ? "nav__menu show-menu" : "nav__menu"}>
           <ul className="nav__list grid">
@@ -30,11 +31,6 @@ export const Header = () => {
               </a>
             </li>
 
-            <li className="nav__item">
-              <a href="#skills" className='nav__link'>
-                <i className="uil uil-file-alt nav__icon"></i>Skills
-              </a>
-            </li>
 
             <li className="nav__item">
               <a href="portfolio" className='nav__link'>
